@@ -1,0 +1,9 @@
+Variables: Las variables son identificadores, estos identificadores pueden ser usados para almacenar algo.
+
+Strings: Los Strings son caracteres y numeros que van dentro de comillas dobles o simples.
+
+Funciones: Las Funciones son bloques de codigo que realiza alguna operacion y retorna un valor.
+
+Declaraciones If: Es una estructura de control utilizada para tomar decisiones
+
+Valores booleanos (`true`, `false`): Los valores booleanos son variables que sólo pueden tomar dos posibles valores: True (verdadero) o False (falso). 
