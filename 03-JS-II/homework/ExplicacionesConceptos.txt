@@ -1,0 +1,6 @@
+* for: El bucle for es una secuencia que repite varias veces un mismo trozo de código, hasta que la condición asignada 
+al bucle deja de cumplirse.
+
+`&&`, `||`, `!`: Los operadores lógicos permiten agrupar expresiones lógicas. Las expresiones lógicas son todas aquellas 
+expresiones que obtienen como resultado verdadero o falso
+
