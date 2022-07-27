@@ -2,5 +2,5 @@
 al bucle deja de cumplirse.
 
 `&&`, `||`, `!`: Los operadores lógicos permiten agrupar expresiones lógicas. Las expresiones lógicas son todas aquellas 
-expresiones que obtienen como resultado verdadero o falso
+expresiones que obtienen como resultado verdadero o falso.
 
