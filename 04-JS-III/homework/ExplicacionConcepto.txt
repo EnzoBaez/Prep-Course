@@ -1,0 +1,1 @@
+Arrays: los arrays son una coleccion de elementos que se cuentan del 0 para adelante. 
